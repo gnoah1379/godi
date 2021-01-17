@@ -2,7 +2,7 @@ package godi
 
 import (
 	"context"
-	"godi/internal"
+	"github.com/gnoah1379/godi/internal"
 	"sync"
 )
 

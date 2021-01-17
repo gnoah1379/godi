@@ -1,7 +1,7 @@
 package godi
 
 import (
-	"godi/internal"
+	"github.com/gnoah1379/godi/internal"
 	"reflect"
 	"sync"
 

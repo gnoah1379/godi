@@ -1,6 +1,6 @@
 package godi
 
-import "godi/internal"
+import "github.com/gnoah1379/godi/internal"
 
 var application *Container
 
